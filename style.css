@@ -1,0 +1,33 @@
+.gallery img{
+    width: 100;
+}
+
+h2{
+    font-family: impact,fantasy;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
+
+h4{
+    font-family: fantasy;
+    font-size: 20px;
+    font-style: italic;
+    color: blanchedalmond; 
+}
+
+#menu bar{
+    width:100px;
+    height: 40px;
+    background-color: chocolate;
+}
+
+#menu bar{
+    color: antiquewhite;
+    font-family: fantasy;
+    font-size: 18px;
+    text-decoration: underline;
+    font-weight: 800;
+    
+    
+}
